@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/fela.iml" filepath="$PROJECT_DIR$/.idea/fela.iml" />
+      <module fileurl="file:///Applications/XAMPP/xamppfiles/htdocs/toge-projet/.idea/toge-projet.iml" filepath="/Applications/XAMPP/xamppfiles/htdocs/toge-projet/.idea/toge-projet.iml" />
+    </modules>
+  </component>
+</project>
